@@ -20,7 +20,7 @@ Branches are done locally and makes a copy of a repository that can be altered w
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The probability of creating a conflict is reduced
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
